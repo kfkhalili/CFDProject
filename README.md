@@ -1,4 +1,4 @@
 CFDProject
 ==========
 
-TUM CFD Prakitkum Course - Project
+TUM CFD Praktikum Course - Project
